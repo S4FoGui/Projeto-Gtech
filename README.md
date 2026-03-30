@@ -437,16 +437,6 @@ projeto-gtech-digital_store/
 
 ---
 
-## Deploy (Producao)
-
-| Servico  | Plataforma | URL                                          |
-| -------- | ---------- | -------------------------------------------- |
-| Frontend | Vercel     | https://seu-projeto.vercel.app               |
-| API      | Railway    | https://seu-projeto.up.railway.app/api       |
-| Swagger  | Railway    | https://seu-projeto.up.railway.app/api/docs  |
-| Tests    | Railway    | https://seu-projeto.up.railway.app/api/tests |
-
----
 
 ## Contribuidores
 
