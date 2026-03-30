@@ -444,4 +444,4 @@ projeto-gtech-digital_store/
 | --- | --- |
 | **Guilherme Castro Melo** | [@S4FoGui](https://github.com/S4FoGui) |
 | *****                     | []()                                   |
-| *****                     | []()                                   |
+| **João Gabriel Neves Ferrer**                     | [@Aiel-rgb](https://github.com/Aiel-rgb?tab=repositories)                                   |
