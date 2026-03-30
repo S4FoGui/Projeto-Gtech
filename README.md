@@ -453,3 +453,5 @@ projeto-gtech-digital_store/
 | Desenvolvedor | GitHub |
 | --- | --- |
 | **Guilherme Castro Melo** | [@S4FoGui](https://github.com/S4FoGui) |
+| *****                     | []()                                   |
+| *****                     | []()                                   |
