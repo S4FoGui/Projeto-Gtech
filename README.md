@@ -443,5 +443,5 @@ projeto-gtech-digital_store/
 | Desenvolvedor | GitHub |
 | --- | --- |
 | **Guilherme Castro Melo** | [@S4FoGui](https://github.com/S4FoGui) |
-| **José Lucas do Nascimento Gomes**| [@joselucasfront10001-dbz](https://github.com/joselucasfront10001-dbz)|
-| *****                     | []()                                   |
+| **José Lucas Nascimento Gomes**                     | [@joselucasfront10001-dbz](https://github.com/joselucasfront10001-dbz)                                   |
+| **João Gabriel Neves Ferrer**                     | [@Aiel-rgb](https://github.com/Aiel-rgb?tab=repositories)                                   |
