@@ -84,7 +84,7 @@ E-commerce completo de tenis e streetwear com frontend React, backend Node.js/Ex
 ### 1. Clone o repositorio
 
 ```bash
-git clone https://github.com/SudoBrunoGomes/projeto-gtech-digital_store.git
+git clone https://github.com/S4FoGui/Projeto-Gtech.git
 cd projeto-gtech-digital_store
 ```
 
